@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a multi media engineering student looking to expand and merge my abilities in different media<br>I'm actively engaging in learning and striving for improvement in mobile developing.<br>I have a passion for visual arts, and I love how front end combines desing+code!
+I'm a digital media engineering student looking to expand and merge my abilities in different media<br>I'm actively engaging in learning and striving for improvement in mobile developing.<br>I have a passion for visual arts, and I love how front end combines desing+code!
 
 
 ## 🌐 Socials:
